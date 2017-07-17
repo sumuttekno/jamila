@@ -1,5 +1,5 @@
 # jamila
-Websocket Javascript Client. Created for help developer make socket connection from javascript to websocket endpoint.
+Websocket Javascript Client. Created for help developer make socket connection from javascript web client to websocket server.
 
 ## Prerequisites
 
