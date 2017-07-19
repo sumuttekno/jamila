@@ -19,7 +19,7 @@ Make sure that you understand about basic websocket and javascript concept
    <script src="jamila/lib/channel.js"></script>
    
    <script>
-      var dispatcher = new WebSocketRails('localhost:3000/websocket');
+      var dispatcher = new Jamila('localhost:3000/websocket');
 
       dispatcher.trigger('new_message',{user_name: 'robin', msg_body: 'hello'}); // Trigger events using our JavaScript client.
 
